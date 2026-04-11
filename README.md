@@ -20,7 +20,7 @@ I am a Senior Full-Stack Developer based in the USA. With over a decade of exper
 
 **Interests:** Go (Golang), Bash, GCP, Docker, Kubernetes, Terraform, CI/CD pipelines, and Agentic Workflows.
 
-**Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows using Cursor.
+**Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows.
 
 ## 📫 Connect with Me
 
