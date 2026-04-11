@@ -14,7 +14,7 @@ I am a Senior Full-Stack Developer based in the USA. With over a decade of exper
 
 ## 🛠 Tech Stack
 
-**Frontend:** Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, Pinia/Vuex, HTML, and SASS.
+**Frontend:** Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS.
 
 **Backend & Tools:** Node.js, Express, H3, GraphQL, and Apollo.
 
