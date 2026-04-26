@@ -6,7 +6,7 @@ I am a Senior Full-Stack Developer based in the USA. With over a decade of exper
 
 **Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS.
 
-**Current Focus:** I am actively expanding into DevOps and Automation, specifically working with Go (Golang) and Bash to build more resilient infrastructures.
+**Exploring:** I am actively expanding into DevOps and Automation, specifically working with Go (Golang) and Bash to build more resilient infrastructures.
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development.
 
