@@ -4,9 +4,9 @@ I am a Senior Full-Stack Developer based in the USA. With over a decade of exper
 
 ## 🚀 About Me
 
-**Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS.
+**Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, Java, HTML, and SASS.
 
-**Exploring:** I am actively expanding into DevOps and Automation, specifically working with Python and Bash to build more resilient infrastructures.
+**Exploring:** I am actively expanding into DevOps and Automation, specifically working with Terraform to build more resilient infrastructures.
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development.
 
@@ -16,9 +16,9 @@ I am a Senior Full-Stack Developer based in the USA. With over a decade of exper
 
 **Frontend:** Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS.
 
-**Backend & Tools:** Node.js, Express, H3, GraphQL, and Apollo.
+**Backend & Tools:** Node.js, Express, H3, Java, GraphQL, and Apollo.
 
-**Interests:** Python, Bash, GCP, Docker, Kubernetes, Terraform, CI/CD pipelines, and Agentic Workflows.
+**Interests:** Java, Docker, Kubernetes, Terraform, CI/CD pipelines, and Agentic Workflows.
 
 **Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows.
 
