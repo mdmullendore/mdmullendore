@@ -1,6 +1,6 @@
 # Hi, I'm Mason Mullendore 👋
 
-I am a Senior Full-Stack Developer based in the USA. With over a decade of experience, I specialize in designing and developing scalable, high-performance applications.
+I am a Senior Full Stack Developer based in the USA. With over a decade of experience, I specialize in designing and developing scalable, high-performance applications.
 
 ## 🚀 About Me
 
@@ -16,9 +16,9 @@ I am a Senior Full-Stack Developer based in the USA. With over a decade of exper
 
 **Frontend:** Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS.
 
-**Backend:** Node.js, Express, H3, Java, Spring Boot, GraphQL, and Apollo.
+**Backend:** Node.js, Express, H3, Java, Spring Boot, Postgres, GraphQL, and Apollo.
 
-**Interests:** Java, Docker, Kubernetes, Terraform, CI/CD pipelines, and Agentic Workflows.
+**Interests:** Docker, Kubernetes, Terraform, CI/CD pipelines, and Agentic Workflows.
 
 **Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows.
 
