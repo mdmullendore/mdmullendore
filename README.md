@@ -6,7 +6,7 @@ I am a Senior Full Stack Developer based in the USA. With over a decade of exper
 
 **Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS.
 
-**Exploring:** I am actively expanding into DevOps and Automation, specifically working with Terraform to build more resilient infrastructures.
+**Exploring:** I am actively expanding into cloud engineering, specifically working with Terraform to build more resilient infrastructures.
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development.
 
@@ -18,7 +18,7 @@ I am a Senior Full Stack Developer based in the USA. With over a decade of exper
 
 **Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, Postgres, GraphQL, and Apollo.
 
-**Interests:** Docker, Kubernetes, Terraform, CI/CD pipelines, and Agentic Workflows.
+**Interests:** Cloud and AI engineering.
 
 **Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows.
 
