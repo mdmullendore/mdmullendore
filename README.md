@@ -1,6 +1,6 @@
 # Hi, I'm Mason Mullendore 👋
 
-I am a Senior Full Stack Developer based in the USA. With over a decade of experience, I specialize in designing and developing scalable, high-performance applications.
+I am a Senior Engineer based in the USA. With over a decade of experience, I specialize in designing and developing scalable, high-performance applications.
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ I am a Senior Full Stack Developer based in the USA. With over a decade of exper
 
 **Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, Postgres, GraphQL, and Apollo.
 
-**Interests:** Cloud and AI engineering.
+**Interests:** Design Systems, Cloud and AI engineering.
 
 **Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows.
 
