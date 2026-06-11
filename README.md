@@ -1,12 +1,12 @@
 # Hi, I'm Mason Mullendore 👋
 
-I am a Senior Engineer based in the USA. With over a decade of experience, I specialize in designing and developing scalable, high-performance applications.
+I am a Senior Software Engineer based in the USA. With over a decade of experience, I specialize in designing and developing scalable, high-performance applications.
 
 ## 🚀 About Me
 
 **Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS
 
-**Interests:** Design Systems, Cloud and AI engineering
+**Interests:** Design Systems, CI/CD, Cloud and AI engineering
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development
 
