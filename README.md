@@ -16,7 +16,9 @@ I am a Senior Engineer based in the USA. With over a decade of experience, I spe
 
 **Frontend:** Angular, Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS
 
-**Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, Postgres, GraphQL, and Apollo
+**Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, and Postgres
+
+**API Technologies:** REST, GraphQL, WebSockets, OAuth 2.0 and JWT
 
 ## 📫 Connect with Me
 
