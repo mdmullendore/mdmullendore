@@ -4,19 +4,19 @@ I am a Senior Engineer based in the USA. With over a decade of experience, I spe
 
 ## 🚀 About Me
 
-**Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS.
+**Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS
 
-**Interests:** Design Systems, Cloud and AI engineering.
+**Interests:** Design Systems, Cloud and AI engineering
 
-**Background:** I hold a Master of Science in IT with a concentration in Software Application Development.
+**Background:** I hold a Master of Science in IT with a concentration in Software Application Development
 
 [Resume](https://www.masonmullendore.com/mason-mullendore-resume.pdf)
 
 ## 🛠 Tech Stack
 
-**Frontend:** Angular, Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS.
+**Frontend:** Angular, Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS
 
-**Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, Postgres, GraphQL, and Apollo.
+**Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, Postgres, GraphQL, and Apollo
 
 ## 📫 Connect with Me
 
