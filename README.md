@@ -6,7 +6,7 @@ I am a Senior Engineer based in the USA. With over a decade of experience, I spe
 
 **Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS.
 
-**Exploring:** I am actively expanding into cloud engineering, specifically working with Terraform to build more resilient infrastructures.
+**Interests:** Design Systems, Cloud and AI engineering.
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development.
 
@@ -17,10 +17,6 @@ I am a Senior Engineer based in the USA. With over a decade of experience, I spe
 **Frontend:** Angular, Vue.js (Nuxt), React (Next.js), TypeScript, Javascript, HTML, and SASS.
 
 **Backend:** Node.js, Express, H3, Java, Spring Boot, Python, FastAPI, Postgres, GraphQL, and Apollo.
-
-**Interests:** Design Systems, Cloud and AI engineering.
-
-**Design & Workflow:** Figma, Storybook, Vite, and AI-integrated workflows.
 
 ## 📫 Connect with Me
 
