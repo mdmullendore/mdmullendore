@@ -6,7 +6,7 @@ I am a Senior Software Engineer based in the USA. With over a decade of experien
 
 **Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML, and SASS
 
-**Interests:** System Architecture, HealthTech, and AI Engineering
+**Interests:** System Architecture, UI and AI Engineering
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development
 
