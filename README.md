@@ -4,9 +4,9 @@ I am a Senior Software Engineer based in the USA. With over a decade of experien
 
 ## 🚀 About Me
 
-**Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML5, CSS3 and SASS
+**Specialization:** I focus on production-grade Application Development, with deep expertise in Node.js, TypeScript, HTML5, CSS3, and SASS
 
-**Interests:** System Architecture, UI and AI Engineering
+**Interests:** System Architecture, UI, and AI Engineering
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development
 
@@ -14,7 +14,7 @@ I am a Senior Software Engineer based in the USA. With over a decade of experien
 
 ## 🛠 Tech Stack
 
-**Frontend:** React (Next.js), Vue.js (Nuxt), Angular, TypeScript, Javascript, HTML5, CSS3 and SASS
+**Frontend:** React (Next.js), Vue.js (Nuxt), Angular, TypeScript, Javascript, HTML5, CSS3, and SASS
 
 **Backend:** Node.js, Express, H3, Java, Spring Boot, and Postgres
 
