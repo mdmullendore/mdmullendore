@@ -16,7 +16,7 @@ I am a Senior Software Engineer based in the USA. With over a decade of experien
 
 **Frontend:** React (Next.js), Vue.js (Nuxt), Angular, TypeScript, Javascript, HTML5, CSS3, and SASS
 
-**Backend:** Node.js, Express, H3, Java, Spring Boot, and Postgres
+**Backend:** Node.js, Express, H3, Java, Spring Boot, Python, and Postgres
 
 **API Technologies:** REST, GraphQL, WebSockets, OAuth 2.0, and JWT
 
