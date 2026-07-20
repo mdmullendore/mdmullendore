@@ -18,6 +18,8 @@ I am a Senior Software Engineer based in the USA. With over a decade of experien
 
 **Backend:** Node.js, Express, H3, Java, Spring Boot, Python, and Postgres
 
+**Mobile:** React Native, Expo, Swift, Java
+
 **API Technologies:** REST, GraphQL, WebSockets, OAuth 2.0, and JWT
 
 ## 📫 Connect with Me
