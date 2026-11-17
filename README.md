@@ -10,7 +10,7 @@ I am a Senior Software Engineer based in the USA. With over a decade of experien
 
 **Background:** I hold a Master of Science in IT with a concentration in Software Application Development
 
-[Resume](https://www.masonmullendore.com/mason-mullendore-resume.pdf)
+[Resume](https://www.linkedin.com/in/mason-mullendore/)
 
 ## 🛠 Tech Stack
 
